@@ -3457,6 +3457,7 @@ h2.text-center:after {
  	text-overflow: ellipsis;
     white-space: wrap;
     overflow: hidden;
+	padding: 15px;
 
 
 }
